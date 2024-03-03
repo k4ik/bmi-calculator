@@ -1,0 +1,13 @@
+.header-p, .header-title {
+    color: #FFF;
+    margin-left: 20px;
+}
+
+.header-p {
+    margin: 20px 0 10px 20px;
+}
+
+.header-title {
+    font-size: 26px;
+    font-weight: bold;
+}
